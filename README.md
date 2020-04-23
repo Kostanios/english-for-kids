@@ -1,2 +1,2 @@
 # kostanios-RS2020Q1
-Private repository for @kostanios
+ https://kostanios.github.io/english-for-kids/
